@@ -43,3 +43,38 @@ quiz-console-app/
 ```
 
 
+
+---
+
+## ▶️ How to Run the Application
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/<your-username>/quiz-console-app.git
+   cd quiz-console-app
+   javac QuizApp.java
+   java QuizApp
+
+## 🚀 Future Enhancements
+
+- Load questions dynamically (file or database)
+- Add difficulty levels
+- Introduce time-based questions
+- Convert to GUI or web-based application
+- Add detailed score analysis
+
+## 📌 Purpose of This Project
+
+This project was created for **Core Java practice**, with a focus on **clarity of concepts**.
+
+---
+
+## 👤 Author
+
+**Kartik Goyal**  
+
+
+
+
+
+
