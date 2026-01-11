@@ -1,0 +1,17 @@
+# Ignore class files and other build artifacts
+*.class
+*.jar
+*.war
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and VS Code settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore workspace storage
+workspaceStorage/
